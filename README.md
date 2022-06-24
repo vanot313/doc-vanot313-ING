@@ -3,7 +3,8 @@
 ### 你好，世界 👋
 
 - :orange_book: Focusing on Java & Python
-- :school: Student of ZheJiang University of Technology​ 
+- 🧱 Work in ???
+- 👨‍🎓  Graduate from ZheJiang University of Technology 
 - :guitar: Guitar lover
-- :star: 2021 ​Strive for admisstion to graduate school.Improve my ability of Java and design patterns.
+- :star: 2022 Becomes more pure. Try to fit into work life. Love my life.
 
